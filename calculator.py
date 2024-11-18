@@ -1,2 +1,2 @@
-def add_two_numbers(x, y):
+def add_two_nums(x, y):
     pass
