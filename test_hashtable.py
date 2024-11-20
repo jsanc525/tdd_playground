@@ -7,3 +7,6 @@ def test_should_always_pass():
 
 def test_add_two_nums():
     assert add_two_nums(2,2) == 4
+
+def test_sub_two_nums():
+    assert subtract_two_nums(2, 2) == 0
